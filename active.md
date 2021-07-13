@@ -129,12 +129,12 @@ http://www.nowpublishers.com/article/Details/MAL-037
 
 
 - 行列を小さくする手法3種類
-■A-optimality
-行列の trace を最小に <-フィッシャー情報ではこれ
-■D-optimality
-行列の determinant を最小に (Query-By-Committeeで使われる？)
-■E-optimality
-行列の最大固有値を最小に
+■A-optimality  
+行列の trace を最小に <-フィッシャー情報ではこれ  
+■D-optimality  
+行列の determinant を最小に (Query-By-Committeeで使われる？)  
+■E-optimality  
+行列の最大固有値を最小に  
 
 
 - 結局A-optimalityが使われるらしい
